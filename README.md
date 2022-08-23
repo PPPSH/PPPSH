@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Python]([https://img.shields.io/badge/-Python-222222?style=for-the-badge&logo=git&logoColor=blue](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
--https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white
--![Kafka
-
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <!--
 **PPPSH/pppsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
